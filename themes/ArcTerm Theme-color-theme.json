@@ -9,7 +9,6 @@
 		"editorCursor.foreground": "#c5e6ff",
 		"editorLineNumber.foreground": "#8da4b6",
 		"editorLineNumber.activeForeground": "#c5e6ff",
-		"editorLineNumber.dimmedForeground": "#ff0000",
 
 		"button.background": "#4c81a7",
 		"button.border": "#375d79",
