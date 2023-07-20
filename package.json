@@ -3,6 +3,11 @@
   "displayName": "ArcTerm",
   "description": "A Theme to look similar to ArcTerm",
   "version": "1.0.0",
+  "publisher": "Blockyheadman",
+  "icon": "icon.png",
+  "author": {
+    "name": "Blockyheadman"
+  },
   "repository": {
     "url": "https://github.com/Blockyheadman/arcterm-vscode-theme"
   },
