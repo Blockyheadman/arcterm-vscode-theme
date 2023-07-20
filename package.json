@@ -2,7 +2,10 @@
   "name": "arcterm",
   "displayName": "ArcTerm",
   "description": "A Theme to look similar to ArcTerm",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/Blockyheadman/arcterm-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
