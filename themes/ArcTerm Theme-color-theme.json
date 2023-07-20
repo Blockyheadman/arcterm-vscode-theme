@@ -1,8 +1,6 @@
 {
 	"name": "ArcTerm Theme",
 	"colors": {
-		"background": "#ff0000",
-
 		"editor.background": "#181e24",
 		"editor.foreground": "#cfdfff",
 		"editor.selectionBackground": "#9ebeff63",
