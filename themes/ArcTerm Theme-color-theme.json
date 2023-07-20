@@ -84,8 +84,21 @@
 		"tab.hoverBorder": "#1f3544",
 
 		"editorWidget.background": "#223949",
-		"editorWidget.border": "#365b75"
+		"editorWidget.border": "#365b75",
 
+		"diffEditor.diagonalFill": "#253d4e",
+		"diffEditor.insertedLineBackground": "#255854",
+		"diffEditor.removedLineBackground": "#4b1616",
+
+		"statusBar.background": "#253d4e",
+		"statusBar.debuggingBackground": "#f3722c",
+		"statusBar.noFolderBackground": "#13212b",
+		"statusBar.offlineBackground": "#d62828",
+
+		"titleBar.activeBackground": "#4c81a7",
+		"titleBar.inactiveBackground": "#375d79",
+
+		"banner.background": "#253d4e"
 	},
 	"tokenColors": [
 		{
