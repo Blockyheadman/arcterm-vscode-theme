@@ -1,8 +1,8 @@
 {
   "name": "arcterm",
   "displayName": "ArcTerm",
-  "description": "A Theme to look similar to ArcTerm",
-  "version": "1.0.0",
+  "description": "A Theme to look similar to ArcOS",
+  "version": "1.0.1",
   "publisher": "Blockyheadman",
   "icon": "icon.png",
   "author": {
